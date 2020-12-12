@@ -1,0 +1,25 @@
+// 1 - HELPERS
+@import '1-helpers/root';
+@import '1-helpers/mixins';
+
+// 2 - BASICS
+@import '2-basics/reset';
+@import '2-basics/btn';
+@import '2-basics/social-icon';
+
+// 3 - LAYOUT
+@import '3-layout/_1header.scss';
+@import '3-layout/_2hero.scss';
+// @import '3-layout/_3cards.scss';
+@import '3-layout/testimonial';
+@import '3-layout/_4woweare.scss';
+@import '3-layout/_5footer.scss';
+@import '3-layout/_6aboutus.scss';
+@import '3-layout/_7worldclasstalent.scss';
+@import '3-layout/_8webdesibanner.scss';
+@import '3-layout/_9workdisplay2.scss';
+@import '3-layout/_10workcard.scss';
+
+// 4 - PAGES
+@import '4-pages/location';
+@import '4-pages/contact';
